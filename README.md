@@ -1,5 +1,5 @@
 <p align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width =150px></picture> </p>
-<h1 align="center">Hi 👋, I'm Manoj Hashan Wikramanayake</h1>
+<h1 align="center">Hi 👋, I'm Manoj Hashan Wickramanayake</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 <p align="center">
