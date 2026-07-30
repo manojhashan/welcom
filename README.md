@@ -1,10 +1,8 @@
-
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:240046,50:5A189A,100:9D4EDD&text=Welcome&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=AI/ML%20Engineer&descAlignY=65"
-    style="border-radius:25px;"
-  />
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6A11CB,50:8E2DE2,100:DA22FF&text=Welcome&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Manoj%20Hashan%20Wickramanayake%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=62"/>
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Generative+AI;Data+Science"/>
 
