@@ -1,62 +1,187 @@
-<p align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width =150px></picture> </p>
-<h1 align="center">Hi 👋, I'm Manoj Hashan Wickramanayake</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Manoj Hashan Wikramanayake</h1>
+<h3 align="center">AI/ML Engineer • Data Science Explorer • Graphic Designer • Undergraduate</h3>
 
 <p align="center">
- <a href="https://github.com/manojwikramanayake"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things%20!&center=true&width=500&height=50"></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojwikramanayake&label=Profile%20views&color=0e75b6&style=flat" alt="manojwikramanayake" /> 
- <a href="https://github.com/manojwikramanayake">
-<img src="https://img.shields.io/github/followers/manojwikramanayake?label=Followers" alt="manojwikramanayakes" >
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Generative+AI;Data+Science" />
 </p>
+
+---
+
+<img align="right" alt="AI" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 👨‍💻 About Me
+
+🎓 Final Year Undergraduate  
+🏫 Faculty of Applied Sciences, Rajarata University of Sri Lanka
+
+🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science.
+
+🔭 Currently working on
+
+- Multimodal AI Interview System
+- Flood Prediction System
+- Computer Vision Projects
+
+🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- AI Agents
+- MLOps
+
+💬 Ask me about
+
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Flask
+- TensorFlow
+
+📫 Email
+
+**manojhashanwikramanayake@gmail.com**
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Multimodal AI Interview System
+
+⭐ Flood Prediction & Emergency Response System
+
+⭐ Helmet Detection using MobileNetV2
+
+⭐ Plastic Waste Classification
+
+⭐ Food Image Classification
+
+⭐ Snake Identification Mobile App
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
 <p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<li>🎓 I’m an Undergraduate at <b>Rajarata University Sri Lanka</b></li>
-<li>🤝 I’m available for <b>freelancing</b>.</li>
-<li>🌱 I’m currently learning <b>Angular</b></li>
-<li>💬 Ask me about <b>React</b></li>
-
-<li>📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=lqrsmLLXKgBtbDWkGNcQmJWrGDPzDsTvLmCcSSlSThgxMwQFBnpBQptGMSmsqMzqhhVNHPrQWJnhpwrrT"><b>manojhashanwikramanayake@gmail.com</b></a></li>
-
-<li>⚡ Fun fact <b>Call me as mr.infinity</b></li>
-</p>
-<br><br>
-<h3 align="center">Connect with me:</h3><p align="center">
-<a href="https://twitter.com/manowicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manowicky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manojhashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojhashan" height="30" width="40" /></a>
-<a href="https://fb.com/manojhashan.wikramanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manojhashan.wikramanayaka" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.infinit.y_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.infinit.y_" height="30" width="40" /></a>
-<a href="https://www.behance.net/mrmano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrmano" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,cpp,r,js,html,css"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project" width="40" height="40"> </a></p>
+### AI / ML
 
-<p align="center">
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
-<p align="center">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.lightroom.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png" alt="lightroom" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/figma--v1.png"  alt="figma" width="40" height="40"/> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/canva.png"  alt="canva" width="40" height="40"/></a>
+
+TensorFlow • OpenCV • Scikit-Learn • NumPy • Pandas • Matplotlib
+
+### Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,bootstrap"/>
 </p>
-<p align="center">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/git.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/react-native.png" alt="react" width="40" height="40"/> </a> </p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator"/>
 </p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<a href="https:/https://code.visualstudio.com/" target="_blank"  rel="noreferrer"> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visualstudio" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2" width="40" height="40"/> </a> 
-<a href="https://https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png"  alt="mathlab" width="40" height="40"/> </a> 
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manojhashan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojhashan&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-  
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=manojhashan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojhashan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manojhashan&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+# 🎯 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Data Science
+
+---
+
+# 🏅 Achievements
+
+🏆 NSF Science Research Competition - Top 10 Finalist
+
+🎨 IEEE Student Branch Graphic Design Team Leader
+
+🎓 Final Year Undergraduate
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/manojhashan">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/manojhashan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:manojhashanwikramanayake@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=manojhashan&label=Profile%20Views&color=0e75b6&style=flat)
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
