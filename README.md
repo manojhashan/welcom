@@ -1,3 +1,27 @@
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6A11CB,50:8E2DE2,100:DA22FF&text=Welcome&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Manoj%20Hashan%20Wickramanayake%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=62"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Generative+AI;Data+Science"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-0066CC?style=for-the-badge"/>
+
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Manoj Hashan Wikramanayake</h1>
 <h3 align="center">AI/ML Engineer • Data Science Explorer • Graphic Designer • Undergraduate</h3>
 
